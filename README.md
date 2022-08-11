@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="[https://imgur.com/fVPp1vV](https://imgur.com/fVPp1vV)"/>
+<img align="right" height="590em" src="https://imgur.com/fVPp1vV"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ulysses Monte</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulyssesMonte&color=yellow" alt="Profile views" /> </p>
 
@@ -46,13 +46,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/ulysses_monte" target="_blank">
-  <img align="center" src="[https://imgur.com/MvvKd54](https://imgur.com/MvvKd54)" alt="twitter"/>  
+  <img align="center" src="https://imgur.com/MvvKd54" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/ulysses-monte-9b727414a" target="_blank">
-  <img align="center" src="[https://imgur.com/gn1FC0h](https://imgur.com/gn1FC0h)" alt="linkedin"/>
+  <img align="center" src="https://imgur.com/gn1FC0h" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ussyles_nomte" target="_blank">
- <img align="center" src="[https://imgur.com/LjCg5Fy](https://imgur.com/LjCg5Fy)" alt="instagram"/>
+ <img align="center" src="https://imgur.com/LjCg5Fy" alt="instagram"/>
 </a>
 </p>
 
